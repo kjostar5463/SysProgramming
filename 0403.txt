@@ -1,0 +1,15 @@
+$cd ~
+$vi .profile
+
+#제일 밑에 라인에 아래의 두 라인 추가 후 저장
+PATH="$PATH:./"  	#혹은 PATH="$PATH:$PWD"
+cd ~ 추가
+ZZ          		#명령 모드에서 저장 후 나가기
+
+/usr/include/sys 디렉토리가 안 보일 때
+sudo apt-get install libc6-dev-i386
+
+
+:w
+:wq
+:q!

@@ -1,0 +1,42 @@
+make 관련
+http://doc.kldp.org/KoreanDoc/html/GNU-Make/GNU-Make.html
+
+동기 비동기 블록 넌블록
+https://musma.github.io/2019/04/17/blocking-and-synchronous.html
+https://hamait.tistory.com/930
+https://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism
+https://sjh836.tistory.com/109
+https://jins-dev.tistory.com/entry/%EB%8F%99%EA%B8%B0Synchronous-%EC%9E%91%EC%97%85%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0Asynchronous-%EC%9E%91%EC%97%85-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%B8%94%EB%9D%BDBlocking-%EA%B3%BC-%EB%84%8C%EB%B8%94%EB%9D%BDNonBlocking-%EC%9D%98-%EA%B0%9C%EB%85%90
+https://ozt88.tistory.com/20
+https://private.tistory.com/24
+https://www.slideshare.net/unitimes/sync-asyncblockingnonblockingio
+https://grip.news/archives/1304
+https://www.joinc.co.kr/w/Site/Network_Programing/AdvancedComm/AIO
+
+"vi keymapping"검색
+https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
+https://blog.naver.com/nfwscho/22040722173
+
+"라이브러리, API, ABI, 프레임워크"
+https://eine.tistory.com/entry/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-API-ABI-%EB%9C%BB-%EB%B9%84%EA%B5%90-%EC%A0%95%EB%A6%AC
+
+"커널"
+https://medium.com/pocs/tagged/linux
+
+"size_t, ssize_t, pid_t"
+https://m.blog.naver.com/PostView.nhn?blogId=cache798&logNo=130080287199&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+https://jihoon6078.tistory.com/57
+https://heny2kawmi.tistory.com/183
+
+"헤더파일관련 정보"
+http://neosrtos.com/docs/posix_api/index.html
+https://pubs.opengroup.org/onlinepubs/007908775/xsh/systypes.h.html
+
+시스템 호출 만들기
+https://splug.tistory.com/184
+
+다양한 정보 사이트
+https://www.joinc.co.kr/w/Site
+
+KLDPWiki
+https://wiki.kldp.org/wiki.php
